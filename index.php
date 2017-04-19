@@ -1,5 +1,9 @@
 <?php
+/*
 
+By: Safeer
+
+*/
 include 'includes/config.php';
 include 'functions.php';
       
