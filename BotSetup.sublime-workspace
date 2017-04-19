@@ -1,0 +1,814 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"acce",
+				"access_afghan"
+			],
+			[
+				"us",
+				"user_ip"
+			],
+			[
+				"city",
+				"cityObject"
+			],
+			[
+				"country",
+				"countryObject"
+			],
+			[
+				"test",
+				"testObject"
+			],
+			[
+				"getc",
+				"getCountry"
+			],
+			[
+				"reg",
+				"regexMatch"
+			],
+			[
+				"messa",
+				"message_to_reply"
+			],
+			[
+				"inqury",
+				"inquiry"
+			],
+			[
+				"ty",
+				"typing_on"
+			],
+			[
+				"image",
+				"imageURL"
+			],
+			[
+				"num",
+				"numberMatch"
+			],
+			[
+				"date",
+				"date1"
+			],
+			[
+				"C",
+				"Chalet"
+			],
+			[
+				"butt",
+				"buttonsCombined"
+			],
+			[
+				"ima",
+				"imageURL"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"mes",
+				"Message"
+			],
+			[
+				"inp",
+				"inputLength"
+			],
+			[
+				"msg",
+				"msgTimestamp"
+			],
+			[
+				"Da",
+				"dateF"
+			],
+			[
+				"e",
+				"epoch"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"quc",
+				"quickReplyPayload"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"ar",
+				"argsSend"
+			],
+			[
+				"but",
+				"button2send"
+			],
+			[
+				"web_r",
+				"web_url"
+			],
+			[
+				"post",
+				"postbackPayload"
+			],
+			[
+				"pos",
+				"postback"
+			],
+			[
+				"mess",
+				"message_to_reply"
+			],
+			[
+				"men",
+				"MenuResponse"
+			],
+			[
+				"glO",
+				"GLOBALS"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"pa",
+				"payload3"
+			],
+			[
+				"t",
+				"title2"
+			],
+			[
+				"pay",
+				"payload2"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"sen",
+				"sender"
+			],
+			[
+				"send",
+				"sendTextMessage"
+			],
+			[
+				"U",
+				"uID"
+			],
+			[
+				"text",
+				"textMessage"
+			],
+			[
+				"te",
+				"textMessage"
+			],
+			[
+				"message",
+				"message_to_reply"
+			],
+			[
+				"rece",
+				"recipient"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"json",
+				"jsonData"
+			],
+			[
+				"rec",
+				"recipient_id"
+			],
+			[
+				"Rec",
+				"recipient_id"
+			],
+			[
+				"messag",
+				"message_to_reply"
+			],
+			[
+				"res",
+				"response"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 26906,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Work/Clients/Husaini/Backups/backup12-6/wp-config.php",
+			"settings":
+			{
+				"buffer_size": 3771,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/F/Work/Clients/Husaini/Backups/igitaleg_husaini.sql",
+			"settings":
+			{
+				"buffer_size": 1872382,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 7966,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "curl -X POST -H \"Content-Type: application/json\" -d '{ \"setting_type\" : \"call_to_actions\",  \"thread_state\" : \"existing_thread\",  \"call_to_actions\":[    {      \"type\":\"postback\",      \"title\":\"Help\",      \"payload\":\"DEVELOPER_DEFINED_PAYLOAD_FOR_HELP\"    },    {      \"type\":\"postback\",      \"title\":\"Start a New Order\",      \"payload\":\"DEVELOPER_DEFINED_PAYLOAD_FOR_START_ORDER\"    },    {      \"type\":\"web_url\",      \"title\":\"Checkout\",      \"url\":\"http://petersapparel.parseapp.com/checkout\",   \"webview_height_ratio\": \"full\",      \"messenger_extensions\": true    },    {      \"type\":\"web_url\",      \"title\":\"View Website\",      \"url\":\"http://petersapparel.parseapp.com/\"    }  ]}' \"https://graph.facebook.com/v2.6/me/thread_settings?access_token=EAAEA78n08dcBAAZCnjyO4Cyq1rWYMIZBSh8ZAwpS70EI12cfCfcPddizqXrxOWCePGI1FNswqg9ZAhlaLBF33IZCdICyAQlZBZAZAqaDJZChtgBuwn0tTpUs65dulL5vHcMXyL8ZA2gwkfyxZAePEYzYoQOMmllYEoCpaZCJgj0OseFVTgZDZD\"   \n\n\nhttps://www.messenger.com/t/1377497712579565\n\n\nContent-Type: application/json\n\n\nhttps://graph.facebook.com/v2.8/me/subscribed_apps?access_token=EAAEA78n08dcBAAZCnjyO4Cyq1rWYMIZBSh8ZAwpS70EI12cfCfcPddizqXrxOWCePGI1FNswqg9ZAhlaLBF33IZCdICyAQlZBZAZAqaDJZChtgBuwn0tTpUs65dulL5vHcMXyL8ZA2gwkfyxZAePEYzYoQOMmllYEoCpaZCJgj0OseFVTgZDZD\"\n\n\n{\n  \"setting_type\" : \"call_to_actions\",\n  \"thread_state\" : \"existing_thread\",\n  \"call_to_actions\":[\n    {\n      \"type\":\"postback\",\n      \"title\":\"👉 Our Menu\",\n      \"payload\":\"DE_LUNCH_DINNER_MENU\"\n    },\n    {\n      \"type\":\"postback\",\n      \"title\":\"👉 Reservation\",\n      \"payload\":\"DE_RESERVATION\"\n    },\n    {\n      \"type\":\"postback\",\n      \"title\":\"👉 Talk to a human!\",\n      \"payload\":\"DE_TALK_TO_HUMAN\"\n    }\n    ]\n}\n\nDelete Menu\n\n{\n  \"setting_type\":\"call_to_actions\",\n  \"thread_state\":\"existing_thread\"\n}\n\n\nGet Profile:\n\nhttps://graph.facebook.com/v2.6/1125859980869487?fields=first_name,last_name,profile_pic,locale,timezone,gender&access_token=EAAEA78n08dcBAIItf05zMjnx7fZCkzOrjVC2KBivbEeXQRjGfp4k3aFZBV5tEemV6tOu5YIy7svPPAFs3aassZAyqnVjURywi35z3NL4f2G77w2i3ZCJyis0VyQNBlehbsaEXzQLtRzIczi7NWDNUOpS2kf4EV5GhR0DWhKeSm4ZC6i7eCkMADdfenZB43HJwZD\n\n\nHassan DE: \n1402928743081868\n\n\nHassan DB:\nEAAJ90TGSAjwBAO0GaPnsz2o0bZCP5Mc1e1HIRJqwWaKZByOjQl1zgPLnbXHIXLHev5DZBBZBxgY9N64BahvFIquBoa0qWwBvVw6onWrh4slJxHZCkNu4ZCDbE0jxSq1nSpLHF6doaJEJ3Wlq9qIOpvJFz49gzt7g0DleSRELHcoAZDZD\n\n1416275908392687\n\nGet Started:\n\n{\n  \"setting_type\":\"call_to_actions\",\n  \"thread_state\":\"new_thread\",\n  \"call_to_actions\":[\n    {\n      \"payload\":\"DE_GET_STARTED_BUTTON\"\n    }\n  ]\n}\n\n\n\nGreeting:\n\n{\n  \"setting_type\":\"greeting\",\n  \"greeting\":{\n    \"text\":\"Hi {{user_first_name}}, welcome to this Digital Eggheads' bot.\"\n  }\n}\n\n\n\nList:\n{\n    \"recipient\":{\n      \"id\":\"1125859980869487\"\n    },\n    \"message\":{\n      \"attachment\":{\n        \"type\":\"template\",\n        \"payload\":{\n          \"template_type\":\"generic\",\n          \"elements\":[\n             {\n              \"title\":\"Titleee!\",\n              \"image_url\":\"https://www.digitaleggheads.com/wp-content/uploads/2017/01/digital-marketing-certification-1.png\",\n              \"subtitle\":\"Subtitle Subtitle Subtitle Subtitle.\",\n              \"default_action\": {\n                \"type\": \"web_url\",\n                \"url\": \"https://www.digitaleggheads.com/digital-ninja-a-digital-marketing-certification-by-team-de/\",\n                \"messenger_extensions\": true,\n                \"webview_height_ratio\": \"tall\",\n                \"fallback_url\": \"https://www.digitaleggheads.com/\"\n              },\n              \"buttons\":[\n                {\n                  \"type\":\"web_url\",\n                  \"url\":\"https://petersfancybrownhats.com\",\n                  \"title\":\"View Website\"\n                },{\n                  \"type\":\"postback\",\n                  \"title\":\"Start Chatting\",\n                  \"payload\":\"DEVELOPER_DEFINED_PAYLOAD\"\n                }              \n              ]      \n            }\n          ]\n        }\n      }\n    }\n  }\n",
+			"file": "JsonCodes",
+			"file_size": 3814,
+			"file_write_time": 131329098085743275,
+			"settings":
+			{
+				"buffer_size": 3927,
+				"line_ending": "Windows",
+				"name": "curl -X POST -H \"Content-Type: application/json\" -"
+			}
+		},
+		{
+			"file": "includes/config.php",
+			"settings":
+			{
+				"buffer_size": 627,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n/**\n * Created by PhpStorm.\n * User: Muhammad Hassan\n * Date: 1/18/2017\n * Time: 1:03 PM\n */\n?>\n\n<?php\nrequire_once('library/class.phpmailer.php');\ninclude(\"library/class.smtp.php\");\n//include(\"ip2locationlite.class.php\");\n$mail = new PHPMailer();\n$mail = new PHPMailer;\n\n\nfunction getUserIP()\n{\n    $client  = @$_SERVER['HTTP_CLIENT_IP'];\n    $forward = @$_SERVER['HTTP_X_FORWARDED_FOR'];\n    $remote  = $_SERVER['REMOTE_ADDR'];\n\n    if(filter_var($client, FILTER_VALIDATE_IP))\n    {\n        $ip = $client;\n    }\n    elseif(filter_var($forward, FILTER_VALIDATE_IP))\n    {\n        $ip = $forward;\n    }\n    else\n    {\n        $ip = $remote;\n    }\n\n    return $ip;\n}\n\n\n$user_ip = getUserIP();\n$countryObject = new ip2location_lite();\n$cityObject = new ip2location_lite();\n\necho $user_ip;\n$countryObject->getCountry($user_ip)['countryName'];\n//$cityObject->getCity($user_ip)['cityName'];\n\necho $countryObject;\n//echo $cityObject;\n\n//$mail->SMTPDebug = 3;                               // Enable verbose debug output\n\n$mail->isSMTP();                                      // Set mailer to use SMTP\n$mail->Host = 'mail.almasartravels.com.pk';              // Specify main and backup SMTP servers\n$mail->SMTPAuth = true;                               // Enable SMTP authentication\n$mail->Username = 'jobs@almasartravels.com.pk';                 // SMTP username\n$mail->Password = 'uqay64o2gvnn';                           // SMTP password\n$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted\n$mail->Port = 465;                                    // TCP port to connect to\n$mail->MsgHTML(file_get_contents('contents.html'));\n$mail->From = 'info@almasartravels.com.pk';\n$mail->FromName = 'Al Masar Travel & Tourism Co.';\n$mail->addAddress('info@almasartravels.com.pk', 'Al Masar Religious Tour Planner');               // Name is optional\n$mail->AddEmbeddedImage('img/logo-al-masar.png','logo');\n$mail->AddBCC(\"safeer@digitaleggheads.com\", \"Admin @ DE\");\n// Add attachments\n// Optional name\n$mail->isHTML(true);                                  // Set email format to HTML\n\n$mail->Subject = 'Al Masar Religious Tour Planner';\n\nif(!empty($_POST['ticket'])== \"\"){\n    $_POST['ticket']= \"No\";\n}else{\n    $_POST['ticket']= \"Yes\";\n}\n$mail->Body    = '<html>\n<body>\n<div>\n    <br>\n    <div style=\"text-align:center\">\n        <img alt=\"logo\" src=\"cid:logo\" class=\"CToWUd\">\n    </div>\n    <table style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;width:100%;background-color:#f6f6f6;margin:0\" bgcolor=\"#f6f6f6\">\n        <tbody>\n        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0\" valign=\"top\">\n\n            </td>\n            <td width=\"600\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;display:block!important;max-width:600px!important;clear:both!important;width:100%!important;margin:0 auto;padding:0\" valign=\"top\">\n                <p></p>\n                <div style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;max-width:600px;display:block;margin:0 auto;padding:0\"> <p></p> <p></p><p></p><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;border-radius:3px;background-color:#fff;margin:0;border:1px solid #e9e9e9\" bgcolor=\"#fff\">\n                        <tbody>\n                        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;padding-bottom: 35px !important;box-sizing:border-box;font-size:16px;vertical-align:top;color:#fff;font-weight:500;text-align:center;border-radius:3px 3px 0 0;background-color:#681a18;margin:0;padding:20px\" align=\"center\" bgcolor=\"#681a18\" valign=\"top\">\n                                <br><strong>Al Masar Religious Tour Planner (Iraq)</strong>\n                            </td>\n                        </tr>\n                        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:10px\" valign=\"top\">\n                                <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                    <tbody>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br>\n                                        </td>\n                                    </tr>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <table style=\"width: 100%;border: 2px #681a18  solid; \" cellpadding=\"6\">\n                                                <tbody>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Name\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['uname']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Whatsapp Number\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['code']. ' - ' .$_POST['num']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            IP Location\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$user_ip. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            City\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$locations['cityName'].', '.$locations['countryName']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Email\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['uemail'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Country of Departure\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['dpart'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Adults\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['adt'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Children (with beds)\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['chl'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Children (without beds)\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['chlout'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Start Date\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['date'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Karbala\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['karbala_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Najaf\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['najaf_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Kazmain\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['kzmain_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Hotel Accommodation\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['accom'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Need Ticket Assistance?\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['ticket'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Need Transport?\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['trans'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                </tbody>\n                                            </table>\n                                        </td>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br>\n                                            <a href=\"http://www.almasartravels.com.pk/\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;color:#fff;text-decoration:none;line-height:2em;font-weight:bold;text-align:center;display:inline-block;border-radius:5px;text-transform:capitalize;background-color:#681a18;margin:0;border-color:#681a18;border-style:solid;border-width:10px 20px\" target=\"_blank\">\n                                                View Packages\n                                            </a>\n                                        </td>\n\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br> Thank you for choosing Al-Masar Travel & Tourism Co.\n                                        </td>\n                                    </tr>\n                                    </tbody>\n                                </table>\n                                <p> </p>\n                            </td>\n                            <td>\n                                <p>\n                                    <br>\n                                </p>\n                            </td>\n                        </tr>\n\n                        </tbody>\n                    </table>\n                    <p>\n                    </p>\n                    <div style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;width:100%;clear:both;color:#999;margin:0;padding:20px\">\n                        <p></p>\n                        <p></p>\n                        <table width=\"100%\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <tbody>\n                            <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:12px;vertical-align:top;color:#999;text-align:center;margin:0;padding:0 0 20px\" align=\"center\" valign=\"top\">\n                                    Copyright © 2016 All Right Reserved,\n                                    <a href=\"http://www.almasartravels.com.pk/\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:12px;color:#999;text-decoration:underline;margin:0\" target=\"_blank\">\n                                        Al-Masar Travel & Tourism Co.\n                                    </a>\n                                </td>\n                            </tr>\n                            </tbody>\n                        </table>\n                    </div>\n                </div>\n            </td>\n    <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0\" valign=\"top\">\n            </td>\n    </tr>\n        </tbody>\n    </table>\n</div>\n</body>\n</html>';\n$mail->AltBody = 'Al Masar Religious Tour Planner';\n\nif(!$mail->send()) {\n    echo 'Message could not be sent.';\n    echo 'Mailer Error: ' . $mail->ErrorInfo;\n} else {\n    //echo 'Message has been sent';\n}\n$mail1 = new PHPMailer();\n$mail1->MsgHTML(file_get_contents('contents.html'));\n$mail1->From = 'info@almasartravels.com.pk';\n$mail1->FromName = 'Al Masar Travel & Tourism Co.';\n$mail1->addAddress($_POST['uemail'], $_POST['uname']);               // Name is optional\n$mail1->AddEmbeddedImage('img/logo-al-masar.png','logo');\n// Add attachments\n// Optional name\n$mail1->isHTML(true);                                  // Set email format to HTML\n\n$mail1->Subject = 'Trip Plan Request Received - Al Masar Religious Tour Planner';\n\n$mail1->Body    = '<html>\n<body>\n<div>\n    <br>\n    <div style=\"text-align:center\">\n        <img alt=\"logo\" src=\"cid:logo\" class=\"CToWUd\">\n    </div>\n    <table style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;width:100%;background-color:#f6f6f6;margin:0\" bgcolor=\"#f6f6f6\">\n        <tbody>\n        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0\" valign=\"top\">\n\n            </td>\n            <td width=\"600\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;display:block!important;max-width:600px!important;clear:both!important;width:100%!important;margin:0 auto;padding:0\" valign=\"top\">\n                <p></p>\n                <div style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;max-width:600px;display:block;margin:0 auto;padding:0\"> <p></p> <p></p><p></p><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;border-radius:3px;background-color:#fff;margin:0;border:1px solid #e9e9e9\" bgcolor=\"#fff\">\n                        <tbody>\n                        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;padding-bottom: 35px !important;box-sizing:border-box;font-size:16px;vertical-align:top;color:#fff;font-weight:500;text-align:center;border-radius:3px 3px 0 0;background-color:#681a18;margin:0;padding:20px\" align=\"center\" bgcolor=\"#681a18\" valign=\"top\">\n                                <br><strong>Al Masar Religious Tour Planner (Iraq)</strong>\n                            </td>\n                        </tr>\n                        <tr>\n                            <td>\n                            <p style=\"text-align:center;\">Thank You for choosing Al Masar Travel & Tourism Co. Our representative will get back to you with a trip plan.</p>\n                            </td>\n                        </tr>\n                        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:10px\" valign=\"top\">\n                                <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                    <tbody>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br>\n                                        </td>\n                                    </tr>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <table style=\"width: 100%;border: 2px #681a18  solid; \" cellpadding=\"6\">\n                                                <tbody>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Name\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['uname']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Whatsapp Number\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['code']. ' - ' .$_POST['num']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            IP Location\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$user_ip. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            City\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$locations['cityName'].', '.$locations['countryName']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Email\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['uemail'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Country of Departure\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['dpart'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Adults\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['adt'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Children (with beds)\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['chl'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Children (without beds)\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['chlout'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Start Date\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['date'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Karbala\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['karbala_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Najaf\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['najaf_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Kazmain\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['kzmain_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Hotel Accommodation\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['accom'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Need Ticket Assistance?\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['ticket'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Need Transport?\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['trans'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                </tbody>\n                                            </table>\n                                        </td>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br>\n                                            <a href=\"http://www.almasartravels.com.pk/\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;color:#fff;text-decoration:none;line-height:2em;font-weight:bold;text-align:center;display:inline-block;border-radius:5px;text-transform:capitalize;background-color:#681a18;margin:0;border-color:#681a18;border-style:solid;border-width:10px 20px\" target=\"_blank\">\n                                                View Packages\n                                            </a>\n                                        </td>\n\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br> Thank you for choosing Al-Masar Travel & Tourism Co.\n                                        </td>\n                                    </tr>\n                                    </tbody>\n                                </table>\n                                <p> </p>\n                            </td>\n                            <td>\n                                <p>\n                                    <br>\n                                </p>\n                            </td>\n                        </tr>\n\n                        </tbody>\n                    </table>\n                    <p>\n                    </p>\n                    <div style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;width:100%;clear:both;color:#999;margin:0;padding:20px\">\n                        <p></p>\n                        <p></p>\n                        <table width=\"100%\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <tbody>\n                            <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:12px;vertical-align:top;color:#999;text-align:center;margin:0;padding:0 0 20px\" align=\"center\" valign=\"top\">\n                                    Copyright © 2016 All Right Reserved,\n                                    <a href=\"http://www.almasartravels.com.pk/\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:12px;color:#999;text-decoration:underline;margin:0\" target=\"_blank\">\n                                        Al-Masar Travel & Tourism Co.\n                                    </a>\n                                </td>\n                            </tr>\n                            </tbody>\n                        </table>\n                    </div>\n                </div>\n            </td>\n    <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0\" valign=\"top\">\n            </td>\n    </tr>\n        </tbody>\n    </table>\n</div>\n</body>\n</html>';\n$mail1->AltBody = 'Al Masar Religious Tour Planner';\n\n\nif(!$mail1->send()) {\n    echo 'Message could not be sent.';\n    echo 'Mailer Error: ' . $mail1->ErrorInfo;\n} else {\n    //echo 'Message has been sent';\n}\n?>\n\n",
+			"settings":
+			{
+				"buffer_size": 46584,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Safeer E Hussain/Desktop/Facebook-Live-Reactions-SocialWall.me_/Facebook-Live-Reactions-SocialWall.me/index.html",
+			"settings":
+			{
+				"buffer_size": 4776,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php\n/**\n * Created by PhpStorm.\n * User: Muhammad Hassan\n * Date: 1/18/2017\n * Time: 1:03 PM\n */\n?>\n\n<?php\nrequire_once('library/class.phpmailer.php');\ninclude(\"library/class.smtp.php\");\ninclude(\"ip2locationlite.class.php\");\n$mail = new PHPMailer();\n$mail = new PHPMailer;\n\n\n\nfunction getUserIP()\n{\n    $client  = @$_SERVER['HTTP_CLIENT_IP'];\n    $forward = @$_SERVER['HTTP_X_FORWARDED_FOR'];\n    $remote  = $_SERVER['REMOTE_ADDR'];\n\n    if(filter_var($client, FILTER_VALIDATE_IP))\n    {\n        $ip = $client;\n    }\n    elseif(filter_var($forward, FILTER_VALIDATE_IP))\n    {\n        $ip = $forward;\n    }\n    else\n    {\n        $ip = $remote;\n    }\n\n    return $ip;\n}\n\n\n$user_ip = getUserIP();\n\necho $user_ip;\n\n\n//$mail->SMTPDebug = 3;                               // Enable verbose debug output\n\n$mail->isSMTP();                                      // Set mailer to use SMTP\n$mail->Host = 'mail.almasartravels.com.pk';              // Specify main and backup SMTP servers\n$mail->SMTPAuth = true;                               // Enable SMTP authentication\n$mail->Username = 'jobs@almasartravels.com.pk';                 // SMTP username\n$mail->Password = 'uqay64o2gvnn';                           // SMTP password\n$mail->SMTPSecure = 'ssl';                            // Enable TLS encryption, `ssl` also accepted\n$mail->Port = 465;                                    // TCP port to connect to\n$mail->MsgHTML(file_get_contents('contents.html'));\n$mail->From = 'info@almasartravels.com.pk';\n$mail->FromName = 'Al Masar Travel & Tourism Co.';\n$mail->addAddress('info@almasartravels.com.pk', 'Al Masar Religious Tour Planner');               // Name is optional\n$mail->AddEmbeddedImage('img/logo-al-masar.png','logo');\n$mail->AddBCC(\"safeer@digitaleggheads.com\", \"Admin @ DE\");\n// Add attachments\n// Optional name\n$mail->isHTML(true);                                  // Set email format to HTML\n\n$mail->Subject = 'Al Masar Religious Tour Planner';\n\nif(!empty($_POST['ticket'])== \"\"){\n    $_POST['ticket']= \"No\";\n}else{\n    $_POST['ticket']= \"Yes\";\n}\n$mail->Body    = '<html>\n<body>\n<div>\n    <br>\n    <div style=\"text-align:center\">\n        <img alt=\"logo\" src=\"cid:logo\" class=\"CToWUd\">\n    </div>\n    <table style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;width:100%;background-color:#f6f6f6;margin:0\" bgcolor=\"#f6f6f6\">\n        <tbody>\n        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0\" valign=\"top\">\n\n            </td>\n            <td width=\"600\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;display:block!important;max-width:600px!important;clear:both!important;width:100%!important;margin:0 auto;padding:0\" valign=\"top\">\n                <p></p>\n                <div style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;max-width:600px;display:block;margin:0 auto;padding:0\"> <p></p> <p></p><p></p><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;border-radius:3px;background-color:#fff;margin:0;border:1px solid #e9e9e9\" bgcolor=\"#fff\">\n                        <tbody>\n                        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;padding-bottom: 35px !important;box-sizing:border-box;font-size:16px;vertical-align:top;color:#fff;font-weight:500;text-align:center;border-radius:3px 3px 0 0;background-color:#681a18;margin:0;padding:20px\" align=\"center\" bgcolor=\"#681a18\" valign=\"top\">\n                                <br><strong>Al Masar Religious Tour Planner (Iraq)</strong>\n                            </td>\n                        </tr>\n                        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:10px\" valign=\"top\">\n                                <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                    <tbody>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br>\n                                        </td>\n                                    </tr>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <table style=\"width: 100%;border: 2px #681a18  solid; \" cellpadding=\"6\">\n                                                <tbody>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Name\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['uname']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Whatsapp Number\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['code']. ' - ' .$_POST['num']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            IP Location\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$user_ip. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            City\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$locations['cityName'].', '.$locations['countryName']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Email\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['uemail'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Country of Departure\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['dpart'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Adults\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['adt'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Children (with beds)\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['chl'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Children (without beds)\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['chlout'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Start Date\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['date'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Karbala\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['karbala_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Najaf\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['najaf_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Kazmain\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['kzmain_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Hotel Accommodation\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['accom'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Need Ticket Assistance?\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['ticket'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Need Transport?\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['trans'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                </tbody>\n                                            </table>\n                                        </td>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br>\n                                            <a href=\"http://www.almasartravels.com.pk/\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;color:#fff;text-decoration:none;line-height:2em;font-weight:bold;text-align:center;display:inline-block;border-radius:5px;text-transform:capitalize;background-color:#681a18;margin:0;border-color:#681a18;border-style:solid;border-width:10px 20px\" target=\"_blank\">\n                                                View Packages\n                                            </a>\n                                        </td>\n\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br> Thank you for choosing Al-Masar Travel & Tourism Co.\n                                        </td>\n                                    </tr>\n                                    </tbody>\n                                </table>\n                                <p> </p>\n                            </td>\n                            <td>\n                                <p>\n                                    <br>\n                                </p>\n                            </td>\n                        </tr>\n\n                        </tbody>\n                    </table>\n                    <p>\n                    </p>\n                    <div style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;width:100%;clear:both;color:#999;margin:0;padding:20px\">\n                        <p></p>\n                        <p></p>\n                        <table width=\"100%\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <tbody>\n                            <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:12px;vertical-align:top;color:#999;text-align:center;margin:0;padding:0 0 20px\" align=\"center\" valign=\"top\">\n                                    Copyright © 2016 All Right Reserved,\n                                    <a href=\"http://www.almasartravels.com.pk/\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:12px;color:#999;text-decoration:underline;margin:0\" target=\"_blank\">\n                                        Al-Masar Travel & Tourism Co.\n                                    </a>\n                                </td>\n                            </tr>\n                            </tbody>\n                        </table>\n                    </div>\n                </div>\n            </td>\n    <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0\" valign=\"top\">\n            </td>\n    </tr>\n        </tbody>\n    </table>\n</div>\n</body>\n</html>';\n$mail->AltBody = 'Al Masar Religious Tour Planner';\n\nif(!$mail->send()) {\n    echo 'Message could not be sent.';\n    echo 'Mailer Error: ' . $mail->ErrorInfo;\n} else {\n    //echo 'Message has been sent';\n}\n$mail1 = new PHPMailer();\n$mail1->MsgHTML(file_get_contents('contents.html'));\n$mail1->From = 'info@almasartravels.com.pk';\n$mail1->FromName = 'Al Masar Travel & Tourism Co.';\n$mail1->addAddress($_POST['uemail'], $_POST['uname']);               // Name is optional\n$mail1->AddEmbeddedImage('img/logo-al-masar.png','logo');\n// Add attachments\n// Optional name\n$mail1->isHTML(true);                                  // Set email format to HTML\n\n$mail1->Subject = 'Trip Plan Request Received - Al Masar Religious Tour Planner';\n\n$mail1->Body    = '<html>\n<body>\n<div>\n    <br>\n    <div style=\"text-align:center\">\n        <img alt=\"logo\" src=\"cid:logo\" class=\"CToWUd\">\n    </div>\n    <table style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;width:100%;background-color:#f6f6f6;margin:0\" bgcolor=\"#f6f6f6\">\n        <tbody>\n        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0\" valign=\"top\">\n\n            </td>\n            <td width=\"600\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;display:block!important;max-width:600px!important;clear:both!important;width:100%!important;margin:0 auto;padding:0\" valign=\"top\">\n                <p></p>\n                <div style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;max-width:600px;display:block;margin:0 auto;padding:0\"> <p></p> <p></p><p></p><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;border-radius:3px;background-color:#fff;margin:0;border:1px solid #e9e9e9\" bgcolor=\"#fff\">\n                        <tbody>\n                        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;padding-bottom: 35px !important;box-sizing:border-box;font-size:16px;vertical-align:top;color:#fff;font-weight:500;text-align:center;border-radius:3px 3px 0 0;background-color:#681a18;margin:0;padding:20px\" align=\"center\" bgcolor=\"#681a18\" valign=\"top\">\n                                <br><strong>Al Masar Religious Tour Planner (Iraq)</strong>\n                            </td>\n                        </tr>\n                        <tr>\n                        \t<td>\n                        \t<p style=\"text-align:center;\">Thank You for choosing Al Masar Travel & Tourism Co. Our representative will get back to you with a trip plan.</p>\n                        \t</td>\n                        </tr>\n                        <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:10px\" valign=\"top\">\n                                <table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                    <tbody>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br>\n                                        </td>\n                                    </tr>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <table style=\"width: 100%;border: 2px #681a18  solid; \" cellpadding=\"6\">\n                                                <tbody>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Name\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['uname']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Whatsapp Number\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['code']. ' - ' .$_POST['num']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            IP Location\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$user_ip. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            City\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$locations['cityName'].', '.$locations['countryName']. '\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Email\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        ' .$_POST['uemail'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Country of Departure\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['dpart'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Adults\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['adt'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Children (with beds)\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['chl'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Children (without beds)\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['chlout'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Start Date\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['date'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Karbala\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['karbala_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Najaf\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['najaf_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Number of Days in Kazmain\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['kzmain_day'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Hotel Accommodation\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['accom'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Need Ticket Assistance?\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['ticket'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                <tr>\n                                                    <td style=\"width: 30%;background-color: #c7c5c5;color: #681a18;\">\n                                                        <strong>\n                                                            Need Transport?\n                                                        </strong>\n                                                    </td>\n                                                    <td style=\"width: 70%;background-color: #d4d4d4; color: #681a18;\">\n                                                        <h4>\n                                                        '.$_POST['trans'].'\n                                                        </h4>\n                                                    </td>\n                                                </tr>\n                                                </tbody>\n                                            </table>\n                                        </td>\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br>\n                                            <a href=\"http://www.almasartravels.com.pk/\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;color:#fff;text-decoration:none;line-height:2em;font-weight:bold;text-align:center;display:inline-block;border-radius:5px;text-transform:capitalize;background-color:#681a18;margin:0;border-color:#681a18;border-style:solid;border-width:10px 20px\" target=\"_blank\">\n                                                View Packages\n                                            </a>\n                                        </td>\n\n                                    <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                        <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0;padding:0 0 20px\" valign=\"top\">\n                                            <br> Thank you for choosing Al-Masar Travel & Tourism Co.\n                                        </td>\n                                    </tr>\n                                    </tbody>\n                                </table>\n                                <p> </p>\n                            </td>\n                            <td>\n                                <p>\n                                    <br>\n                                </p>\n                            </td>\n                        </tr>\n\n                        </tbody>\n                    </table>\n                    <p>\n                    </p>\n                    <div style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;width:100%;clear:both;color:#999;margin:0;padding:20px\">\n                        <p></p>\n                        <p></p>\n                        <table width=\"100%\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                            <tbody>\n                            <tr style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;margin:0\">\n                                <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:12px;vertical-align:top;color:#999;text-align:center;margin:0;padding:0 0 20px\" align=\"center\" valign=\"top\">\n                                    Copyright © 2016 All Right Reserved,\n                                    <a href=\"http://www.almasartravels.com.pk/\" style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:12px;color:#999;text-decoration:underline;margin:0\" target=\"_blank\">\n                                        Al-Masar Travel & Tourism Co.\n                                    </a>\n                                </td>\n                            </tr>\n                            </tbody>\n                        </table>\n                    </div>\n                </div>\n            </td>\n    <td style=\"font-family: Roboto Condensed,Helvetica,Arial,sans-serif;box-sizing:border-box;font-size:14px;vertical-align:top;margin:0\" valign=\"top\">\n            </td>\n    </tr>\n        </tbody>\n    </table>\n</div>\n</body>\n</html>';\n$mail1->AltBody = 'Al Masar Religious Tour Planner';\n\n\nif(!$mail1->send()) {\n    echo 'Message could not be sent.';\n    echo 'Mailer Error: ' . $mail1->ErrorInfo;\n} else {\n    //echo 'Message has been sent';\n}\n?>\n\n//////////////old///////////////",
+			"settings":
+			{
+				"buffer_size": 46387,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"help",
+			"sh"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/wamp/www/bot",
+		"/E/wamp/www/bot/includes",
+		"/E/wamp/www/bot/New folder"
+	],
+	"file_history":
+	[
+		"/E/wamp/www/bot/TestCode.php",
+		"/C/Users/Safeer E Hussain/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/E/wamp/www/bot/includes/functions.php",
+		"/E/wamp/www/bot/functions.php",
+		"/E/wamp/www/bot/includes/config.php",
+		"/C/Users/Safeer E Hussain/AppData/Local/Temp/Rar$DIa0.402/AccountLink.php",
+		"/C/Users/Safeer E Hussain/AppData/Local/Temp/Rar$DIa0.034/FbBotApp.php",
+		"/E/wamp/www/bot/BotSetup.sublime-project",
+		"/C/Users/Safeer E Hussain/Desktop/fb-messenger-php-example-master/fb-messenger-php-example-master/composer.lock",
+		"/C/Users/Safeer E Hussain/Desktop/fb-messenger-php-example-master/fb-messenger-php-example-master/composer.json",
+		"/C/Users/Safeer E Hussain/Desktop/fb-messenger-php-example-master/fb-messenger-php-example-master/config_sample.php",
+		"/C/Users/Safeer E Hussain/Desktop/fb-messenger-php-example-master/fb-messenger-php-example-master/index.php",
+		"/E/wamp/www/bot/index.php",
+		"/E/wamp/www/testmysql.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"husaini",
+			"time",
+			"greetingMessage",
+			".",
+			"message = ",
+			"\"hi\"",
+			"'hi'",
+			"hi ",
+			"hi",
+			"$mail->addAddress('info@almasartravels.com.pk', 'Al Masar Religious Tour Planner');               // Name is optional\n",
+			"mail",
+			"MenuResponse",
+			"Menu",
+			"reserva",
+			"BREAK",
+			"🔵",
+			"sendSingleImagewithURLandButtons",
+			"break",
+			"DE_LUNCH_DINNER_MENU",
+			"break",
+			"brunch men",
+			"brunch",
+			"head",
+			"\\",
+			"DE_BRUNCH",
+			"DISCOUNTS",
+			"disco",
+			"DE_GET_STARTED_BUTTON",
+			"al",
+			"right",
+			"DE_COMPLAINT_DATE",
+			"date",
+			"comp",
+			"co",
+			"talk_to",
+			"reservation.jpg",
+			"reservationrjpg",
+			"reser",
+			"talk_to",
+			"talk",
+			"view menu",
+			"start",
+			"DE_GET_STARTED_BUTTON",
+			"get_sta",
+			"userData",
+			"sendq",
+			"call",
+			"human",
+			"butto",
+			"wp",
+			"jpg",
+			"png",
+			"msgTimestamp",
+			"⏱",
+			"reser",
+			"DE_LUNCH_DINNER_DISCOUNTS",
+			"DE_LUNCH_DINNER_RESERVATION_PEOPLE",
+			"\n  ",
+			"  $",
+			"[i]",
+			"[0]",
+			"var",
+			"curlPost",
+			"curl",
+			"main",
+			"result"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"left",
+			"[\"'.$i.'\"]",
+			"[i]",
+			"curlPostMessages"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26906,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1634,
+								1650
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/Work/Clients/Husaini/Backups/backup12-6/wp-config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								876,
+								864
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/F/Work/Clients/Husaini/Backups/igitaleg_husaini.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1872382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3343,
+								3350
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20677.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								457
+							],
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "JsonCodes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2164,
+								2341
+							]
+						],
+						"settings":
+						{
+							"auto_name": "curl -X POST -H \"Content-Type: application/json\" -",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "includes/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1767,
+								1885
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 392.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/Safeer E Hussain/Desktop/Facebook-Live-Reactions-SocialWall.me_/Facebook-Live-Reactions-SocialWall.me/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2586,
+								2586
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 876.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								46387
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 148.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "BotSetup.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 160.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

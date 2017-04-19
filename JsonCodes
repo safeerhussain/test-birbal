@@ -1,0 +1,114 @@
+curl -X POST -H "Content-Type: application/json" -d '{ "setting_type" : "call_to_actions",  "thread_state" : "existing_thread",  "call_to_actions":[    {      "type":"postback",      "title":"Help",      "payload":"DEVELOPER_DEFINED_PAYLOAD_FOR_HELP"    },    {      "type":"postback",      "title":"Start a New Order",      "payload":"DEVELOPER_DEFINED_PAYLOAD_FOR_START_ORDER"    },    {      "type":"web_url",      "title":"Checkout",      "url":"http://petersapparel.parseapp.com/checkout",   "webview_height_ratio": "full",      "messenger_extensions": true    },    {      "type":"web_url",      "title":"View Website",      "url":"http://petersapparel.parseapp.com/"    }  ]}' "https://graph.facebook.com/v2.6/me/thread_settings?access_token=EAAEA78n08dcBAAZCnjyO4Cyq1rWYMIZBSh8ZAwpS70EI12cfCfcPddizqXrxOWCePGI1FNswqg9ZAhlaLBF33IZCdICyAQlZBZAZAqaDJZChtgBuwn0tTpUs65dulL5vHcMXyL8ZA2gwkfyxZAePEYzYoQOMmllYEoCpaZCJgj0OseFVTgZDZD"   
+
+
+https://www.messenger.com/t/1377497712579565
+
+
+Content-Type: application/json
+
+
+https://graph.facebook.com/v2.8/me/subscribed_apps?access_token=EAAEA78n08dcBAAZCnjyO4Cyq1rWYMIZBSh8ZAwpS70EI12cfCfcPddizqXrxOWCePGI1FNswqg9ZAhlaLBF33IZCdICyAQlZBZAZAqaDJZChtgBuwn0tTpUs65dulL5vHcMXyL8ZA2gwkfyxZAePEYzYoQOMmllYEoCpaZCJgj0OseFVTgZDZD"
+
+
+{
+  "setting_type" : "call_to_actions",
+  "thread_state" : "existing_thread",
+  "call_to_actions":[
+    {
+      "type":"postback",
+      "title":"👉 Our Menu",
+      "payload":"DE_LUNCH_DINNER_MENU"
+    },
+    {
+      "type":"postback",
+      "title":"👉 Reservation",
+      "payload":"DE_RESERVATION"
+    },
+    {
+      "type":"postback",
+      "title":"👉 Talk to a human!",
+      "payload":"DE_TALK_TO_HUMAN"
+    }
+    ]
+}
+
+Delete Menu
+
+{
+  "setting_type":"call_to_actions",
+  "thread_state":"existing_thread"
+}
+
+
+Get Profile:
+
+https://graph.facebook.com/v2.6/1125859980869487?fields=first_name,last_name,profile_pic,locale,timezone,gender&access_token=EAAEA78n08dcBAIItf05zMjnx7fZCkzOrjVC2KBivbEeXQRjGfp4k3aFZBV5tEemV6tOu5YIy7svPPAFs3aassZAyqnVjURywi35z3NL4f2G77w2i3ZCJyis0VyQNBlehbsaEXzQLtRzIczi7NWDNUOpS2kf4EV5GhR0DWhKeSm4ZC6i7eCkMADdfenZB43HJwZD
+
+
+
+
+
+Get Started:
+
+{
+  "setting_type":"call_to_actions",
+  "thread_state":"new_thread",
+  "call_to_actions":[
+    {
+      "payload":"DE_GET_STARTED_BUTTON"
+    }
+  ]
+}
+
+
+
+Greeting:
+
+{
+  "setting_type":"greeting",
+  "greeting":{
+    "text":"Hi {{user_first_name}}, welcome to this Digital Eggheads' bot."
+  }
+}
+
+
+
+List:
+{
+    "recipient":{
+      "id":"1125859980869487"
+    },
+    "message":{
+      "attachment":{
+        "type":"template",
+        "payload":{
+          "template_type":"generic",
+          "elements":[
+             {
+              "title":"Titleee!",
+              "image_url":"https://www.digitaleggheads.com/wp-content/uploads/2017/01/digital-marketing-certification-1.png",
+              "subtitle":"Subtitle Subtitle Subtitle Subtitle.",
+              "default_action": {
+                "type": "web_url",
+                "url": "https://www.digitaleggheads.com/digital-ninja-a-digital-marketing-certification-by-team-de/",
+                "messenger_extensions": true,
+                "webview_height_ratio": "tall",
+                "fallback_url": "https://www.digitaleggheads.com/"
+              },
+              "buttons":[
+                {
+                  "type":"web_url",
+                  "url":"https://petersfancybrownhats.com",
+                  "title":"View Website"
+                },{
+                  "type":"postback",
+                  "title":"Start Chatting",
+                  "payload":"DEVELOPER_DEFINED_PAYLOAD"
+                }              
+              ]      
+            }
+          ]
+        }
+      }
+    }
+  }
